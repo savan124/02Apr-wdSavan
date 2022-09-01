@@ -1,0 +1,35 @@
+
+/* HEADER IS START */
+* {
+    /* margin: 0;
+    padding: 0; */
+    font-family: sans-serif;
+}
+
+.header-wrapper {
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+}
+
+/* HEADER IS END */
+
+/* MAIN IS START */
+
+.row {
+    display: flex;
+}
+
+.col-50 {
+    width: 50%;
+}
+
+.bg {
+    background-color: aqua;
+}
+
+.bg-changed {
+    background-color: chartreuse;
+    /* background-size: cover; */
+}
